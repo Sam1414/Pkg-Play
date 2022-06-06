@@ -1,0 +1,20 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "Samarth",
+  "license": "ISC",
+  "dependencies": {
+    "function-bind": "^1.1.1"
+  },
+  "workspaces": [
+    "m-1"
+  ]
+}
